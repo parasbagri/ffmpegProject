@@ -1,0 +1,7 @@
+ 
+ html{
+   background-color: rgb(172, 172, 172);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
